@@ -6,3 +6,6 @@ Yoonhyung Kim, Seungjun Jung, Chanho Jung, and Changick Kim, "A Structure-Aware 
 
 My contribution: building OpenGL Platform and implementing Image Retargeting Quality Assessment.
 
+**************************************NOTE********************************************
+
+You need to download opencv_world300.dll & opencv_world300d.dll, and put in './Retarget_debug' before executing 'Retargeting.bat'.
